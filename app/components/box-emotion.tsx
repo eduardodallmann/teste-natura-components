@@ -1,6 +1,6 @@
-import * as styled from "styled-components";
+import styled from '@emotion/styled'
 
-export const Box = styled.styled.div`
+export const BoxEmotion = styled.div`
   border-radius: 4px;
   background-color: #ff825c;
   box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.05), 0 1px 3px rgba(0, 0, 0, 0.1);

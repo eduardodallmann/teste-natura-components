@@ -1,10 +1,10 @@
 import { Link } from "@remix-run/react";
-import { BoxStyled } from "~/components/box-styled";
+import { BoxEmotion } from "~/components/box-emotion";
 
 export default function Index() {
   return (
     <>
-      <BoxStyled>teste</BoxStyled>
+      <BoxEmotion>teste</BoxEmotion>
       <Link to="/">Back</Link>
     </>
   );

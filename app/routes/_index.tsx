@@ -14,6 +14,8 @@ export default function Index() {
       <Link to="/styled">Go to styled page</Link>
       <br />
       <Link to="/natura">Go to natura page</Link>
+      <br />
+      <Link to="/emotion">Go to emotion page</Link>
     </>
   );
 }
